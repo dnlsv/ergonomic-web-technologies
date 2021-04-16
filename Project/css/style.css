@@ -231,34 +231,38 @@ img {
 }
 */
 
-.popular {
+.popular, .recommend {
     margin-top: 82px;
 }
 
-.popular_header {
+.popular_header, .recommend_header {
     font-size: 24px;
     line-height: 28px   
 }
 
-.popular_container {
+.popular_container, .recommend_container {
     display: flex;
     gap: 30px;
 }
 
-.first_thing, .second_thing, .third_thing, .fourth_thing{
+.first_thing, .second_thing, .third_thing, .fourth_thing,
+.fifth_thing, .sixth_thing, .seventh_thing {
     margin-top: 29px;
 }
 
-.first_thing_price, .second_thing_price, .third_thing_price , .fourth_thing_price{
+.first_thing_price, .second_thing_price, .third_thing_price , .fourth_thing_price,
+.fifth_thing_price, .sixth_thing_price, .seventh_thing_price {
     margin-top: 7.9px;
     font-weight: 700;
 }
 
-.first_thing_name, .second_thing_name, .third_thing_name , .fourth_thing_name{
+.first_thing_name, .second_thing_name, .third_thing_name , .fourth_thing_name,
+.fifth_thing_name, .sixth_thing_name, .seventh_thing_name {
     opacity: 0.4;
 }
 
-.first_thing_text, .second_thing_text, .third_thing_text , .fourth_thing_text{
+.first_thing_text, .second_thing_text, .third_thing_text , .fourth_thing_text,
+.fifth_thing_text, .sixth_thing_text, .seventh_thing_text {
     margin-top: 5px;
     display: flex;
     gap: 5px;
