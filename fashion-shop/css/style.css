@@ -27,14 +27,13 @@ input {
 }
 
 :focus,
- :active {
+:active {
     outline: none;
 }
 
 img {
     vertical-align: top;
 }
-
 
 /*--------------------*/
 
@@ -99,13 +98,13 @@ h3 {
 .search {
     width: 180px;
     height: 30px;
-    background-color: #C4C4C4;
+    background-color: #c4c4c4;
 }
 
 .loupe {
     width: 30px;
     height: 30px;
-    background-color: #C4C4C4;
+    background-color: #c4c4c4;
 }
 
 .loupe:hover {
@@ -121,8 +120,8 @@ h3 {
 .buy_container {
     width: 610.17px;
     height: 500px;
-    background-color: #C4C4C4;
-    background-image: url(/img/background1.png)
+    background-color: #c4c4c4;
+    background-image: url(/img/background1.png);
 }
 
 .view_choose_container {
@@ -134,14 +133,14 @@ h3 {
 .view_container {
     width: 290px;
     height: 235px;
-    background-color: #C4C4C4;
+    background-color: #c4c4c4;
     background-image: url(/img/background2.png);
 }
 
 .choose_container {
     width: 290px;
     height: 235px;
-    background-color: #C4C4C4;
+    background-color: #c4c4c4;
     background-image: url(/img/background3.png);
 }
 
@@ -274,7 +273,7 @@ h3 {
 .fifth_thing_img:hover,
 .sixth_thing_img:hover,
 .seventh_thing_img:hover {
-    filter: contrast(.85);
+    filter: contrast(0.85);
 }
 
 .first_thing_price,
@@ -313,7 +312,7 @@ h3 {
 .footer {
     width: 1000px;
     height: 295px;
-    background: #F0F0F0;
+    background: #f0f0f0;
 }
 
 .footer_container {
